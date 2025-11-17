@@ -99,15 +99,28 @@ https://github.com/user-attachments/assets/4ccd316b-74a1-4bae-9bc7-1c705be80498
 
 <br><br>
 
-Welcome to your repository guide for [DataMining DBSCAN_and_Spectral Clustering](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN_and_Spectral-Clustering-). This Repo is written so anyone—even kids, can understand the two powerful clustering algorithms: [***DBSCAN***]() and [***Spectral Clustering***]().
+Welcome to your repository guide for [DataMining DBSCAN_and_Spectral Clustering](https://github.com/Quantum-Software-Development/14-DataMining_DBSCAN_and_Spectral-Clustering-). This Repo is written so anyone even kids, can understand the two powerful clustering algorithms: [***DBSCAN***]() and [***Spectral Clustering***]().
 
 <br><br>
 
 
+## Table of Contents
+
+- [What is Clustering?](#what-is-clustering)
+- [DBSCAN Algorithm](#dbscan-algorithm)
+    - [How DBSCAN Works (Step-by-Step)](#how-dbscan-works-step-by-step)
+    - [Core, Border, and Noise Points](#core-border-and-noise-points)
+    - [DBSCAN Parameters: Epsilon and MinPts](#dbscan-parameters-epsilon-and-minpts)
+    - [Strengths and Limitations of DBSCAN](#strengths-and-limitations-of-dbscan)
+- [Spectral Clustering](#spectral-clustering)
+    - [How Spectral Clustering Works (for Kids!)](#how-spectral-clustering-works-for-kids)
+    - [Main Ideas in Spectral Clustering](#main-ideas-in-spectral-clustering)
+    - [Pros and Cons of Spectral Clustering](#pros-and-cons-of-spectral-clustering)
+- [Applications and When to Use Each](#applications-and-when-to-use-each)
+- [References](#references)
 
 
-
-
+<br><br>
 
 
 
